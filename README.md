@@ -32,13 +32,13 @@ An anti-ugly theme for Anki.
 ## Screenshots
 ### Laptop
 
-![laptop back](/screenshots/laptop_back.png)
 ![laptop front](/screenshots/laptop_front.png)
+![laptop back](/screenshots/laptop_back.png)
 
 ### Mobile
 
-![mobile back](/screenshots/mobile_back.png)
 ![mobile front](/screenshots/mobile_front.png)
+![mobile back](/screenshots/mobile_back.png)
 
 ## Test Anki Deck
 
