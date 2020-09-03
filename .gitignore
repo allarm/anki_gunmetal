@@ -1,1 +1,3 @@
-# Gitignore
+# gitignore
+
+.DS_Store
