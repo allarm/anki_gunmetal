@@ -40,6 +40,10 @@ An anti-ugly theme for Anki.
 ![mobile back](/screenshots/mobile_back.png)
 ![mobile front](/screenshots/mobile_front.png)
 
+## Test Anki Deck
+
+[deck](test_deck.apkg)
+
 ## Credits
 
 Andrey Che
