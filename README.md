@@ -37,8 +37,8 @@ An anti-ugly theme for Anki.
 
 ### Mobile
 
-![mobile front](/screenshots/mobile_front.png)
-![mobile back](/screenshots/mobile_back.png)
+<img src="https://raw.githubusercontent.com/allarm/anki_gunmetal/master/screenshots/mobile_front.png" width=50%>
+<img src="https://raw.githubusercontent.com/allarm/anki_gunmetal/master/screenshots/mobile_back.png" width=50%>
 
 ## Test Anki Deck
 
